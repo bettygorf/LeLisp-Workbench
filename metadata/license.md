@@ -2,8 +2,11 @@
 BSD 2-Clause "Simplified" License
 
 Copyright (c) 1981-1998, INRIA.
+
 Copyright (c) 1988-1989, Digital Equipment Corporation & INRIA.
+
 Copyright (c) 1987-2009, ILOG.
+
 Copyright (c) 1988-2020, Eligis.
 
 Redistribution and use in source and binary forms, with or without
