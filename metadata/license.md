@@ -1,17 +1,27 @@
-# licence.md Template 
+# licence.md 
+BSD 2-Clause "Simplified" License
 
-Here we propose a template for licence.md for SHWAP.
+Copyright (c) 1981-1998, INRIA.
+Copyright (c) 1988-1989, Digital Equipment Corporation & INRIA.
+Copyright (c) 1987-2009, ILOG.
+Copyright (c) 1988-2020, Eligis.
 
-If the software uses a standard licence please link [SPDX](https://spdx.org/licenses/) 
-and set the repository file LICENCE.md 
-according to the [GitHub licencing guidelines](https://help.github.com/en/articles/licensing-a-repository) and compliant with [common practice](see https://reuse.software/tutorial/).
+Redistribution and use in source and binary forms, with or without
+modification, are permitted provided that the following conditions are met:
 
-In case of custom licence put the link to the actual licence specification file 
-and copy its content into LICENCE.md 
-according to the [GitHub licencing guidelines](https://help.github.com/en/articles/licensing-a-repository) and compliant with [common practice](see https://reuse.software/tutorial/).
+1. Redistributions of source code must retain the above copyright notice, this
+   list of conditions and the following disclaimer.
+2. Redistributions in binary form must reproduce the above copyright notice,
+   this list of conditions and the following disclaimer in the documentation
+   and/or other materials provided with the distribution.
 
-## Example with standard licence
-[MIT Licence](https://spdx.org/licenses/MIT.html) : https://spdx.org/licenses/MIT.html
-
-## Example with custom licence
-[Custom Licence](./materials/Copyright) : ./materials/Copyright
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND
+ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED
+WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR
+ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES
+(INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES;
+LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND
+ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
+(INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
+SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
