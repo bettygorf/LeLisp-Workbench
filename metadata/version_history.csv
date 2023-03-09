@@ -1,0 +1,4 @@
+directory name,author name,author email,date,curator name,curator email,release tag,commit message
+v11,Jérôme Chailloux,jerome@chailloux.com,03/01/1983 00:00:00,Elisabetta Mori,bettygorf@gmail.com,11,"Le Lisp running on 3 different architectures"
+v12,Jérôme Chailloux,jerome@chailloux.com,07/12/1983 00:00:00,Elisabetta Mori,bettygorf@gmail.com,12,"aka Le Lisp 80, distributed in French high-schools"
+v15.26.12,Christian Jullien,jullien@eligis.com,08/18/2020 00:00:00, Elisabetta Mori,bettygorf@gmail.com,15.26.12,"available on https://github.com/c-jullien/lelisp/"

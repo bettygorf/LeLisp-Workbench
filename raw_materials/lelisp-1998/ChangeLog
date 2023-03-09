@@ -1,0 +1,9 @@
+RELEASE NOTES:
+
+2020/05/12: Add NetBSD arm/aarch64 ports.
+2020/05/11: Improve configure toolchain and script.
+2020/01/21: Add rs6000 (AIX powerpc) port.
+2020/01/08: First public Open Source version.
+2019/12/17: All sources are with "Simplified BSD license", see LICENSE.txt.
+2019/12/17: Change Le-Lisp version and date for the FOSS release.
+2019/11/26: Start SWHAP process to make Le-Lisp an open source project.
