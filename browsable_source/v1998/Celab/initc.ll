@@ -1,1 +1,0 @@
-../GELL/C/initc.ll

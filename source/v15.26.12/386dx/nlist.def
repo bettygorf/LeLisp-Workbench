@@ -1,6 +1,0 @@
-NAME           NLIST
-
-DESCRIPTION    'Creating extern array'
-PROTMODE
-HEAPSIZE       8192
-STACKSIZE      16384

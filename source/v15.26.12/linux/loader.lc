@@ -1,8 +1,0 @@
-defmodule
-	loader
-files
-	(loader)
-import
-	(files messages)
-export
-	(loader loaderesolve dont-load loaderend)

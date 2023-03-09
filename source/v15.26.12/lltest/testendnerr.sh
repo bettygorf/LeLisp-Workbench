@@ -1,3 +1,0 @@
-./lelispbin <<EOI
-(end ())
-EOI

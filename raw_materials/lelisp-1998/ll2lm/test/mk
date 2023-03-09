@@ -1,9 +1,0 @@
-# commentaire
-
-VAR=foo
-
-all : mk
-        echo toto
-
-# fin
-

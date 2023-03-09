@@ -1,3 +1,0 @@
--parano nil -w t -p \"../../llib/\" -p \"../../llmod/\" -p \"../../llobj/\" -p \"./\" 
--e "(de getglobal (s) 1)" 
--e "(de defextern-cache (s))" 

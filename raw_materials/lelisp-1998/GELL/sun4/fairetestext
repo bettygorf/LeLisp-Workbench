@@ -1,4 +1,0 @@
-./telispbin -float 0 -heap 512 <<EOI
-(loadfile "../Ctest/testextern.ll" t)
-(end)
-EOI

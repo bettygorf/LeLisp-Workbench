@@ -1,2 +1,0 @@
-(loader '((title |win.lo|)))
-(loader '((end)))

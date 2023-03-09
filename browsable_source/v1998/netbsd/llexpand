@@ -1,1 +1,0 @@
-../netbsd/lelisp31bin -r ../netbsd/llcore/llexpand.core

@@ -1,5 +1,0 @@
-# =====================================================
-# WARNING, Le-Lisp requires you set this kernel option:
-sysctl -w kernel.randomize_va_space=0
-# =====================================================
-

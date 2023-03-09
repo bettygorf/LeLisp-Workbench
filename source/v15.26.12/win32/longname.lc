@@ -1,8 +1,0 @@
-defmodule
-	longname
-files
-	(longname.ll)
-import
-	(callext)
-export
-	(long-filename)

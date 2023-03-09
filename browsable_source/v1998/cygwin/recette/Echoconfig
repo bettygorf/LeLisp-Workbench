@@ -1,6 +1,0 @@
-#!/bin/sh
-
-UNIX=cygwin
-
-echo Le-Lisp $UNIX is running on `uname -s`-`uname -r` using a `uname -m` processor.
-

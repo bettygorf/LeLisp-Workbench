@@ -1,1 +1,0 @@
-/nfs/current/masai1.3/GELL/masaiAconfig.ll.sun4

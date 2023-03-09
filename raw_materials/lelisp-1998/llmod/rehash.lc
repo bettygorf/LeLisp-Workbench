@@ -1,4 +1,0 @@
-defmodule rehash
-files (rehash)
-export (#:rehash:probepathm #:rehash:rehash.lm #:rehash:stats 
-        rehashend rehashinit #:rehash:pr)
